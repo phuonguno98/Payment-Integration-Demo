@@ -18,7 +18,7 @@
 
 # Instructions for connecting to the database
 - You can run source code on Xampp for local or upload it to your hosting.
-- Source code of website in `src` folder.
+- Source code of website in `source` folder.
 - Import data from `database.sql` file.
 - Please modify the `config.php` file in `includes/` and `admin/include/`.
 
