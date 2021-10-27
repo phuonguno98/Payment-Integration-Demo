@@ -6,7 +6,7 @@
 <p align="center">
     <br/>
     <a href="https://github.com/phuonguno98/Paypal-integration-demo">	
-        <img src="/img/paypal_demo.png" alt="Paypal Integration Demo">
+        <img width="40%" height="40%" src="/img/paypal_demo.png" alt="Paypal Integration Demo">
     </a>
 </p>
 
