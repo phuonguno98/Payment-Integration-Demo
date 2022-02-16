@@ -1,8 +1,3 @@
-<a href="https://www.facebook.com/phuonguno.vn" target="_blank">
-    <img width="20%" height="20%" src="/img/facebook-link.png" alt="Nguyen Thanh Phuong" >
-</a>
-
-
 <p align="center">
     <br/>
     <a href="https://github.com/phuonguno98/Paypal-integration-demo">	
