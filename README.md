@@ -22,8 +22,13 @@
 - Import data from `database.sql` file.
 - Please modify the `config.php` file in `includes/` and `admin/include/`.
 
+## Contribution
+<div><b>Nguyễn Thanh Phương</b></div>
+Email: unovn.contact@gmail.com
 
-### Thanks for your attention!
-<a href="https://www.youtube.com/channel/UC-6N3f9UQso0_JmU2O457pA?sub_confirmation=1" target="_blank">
-  <img width="40%" height="40%" src="/img/Subscribe-Youtube.png" alt="Uno Channel" >
-</a>
+
+Telegram: [phuonguno](https://t.me/phuonguno)
+
+## License
+
+[UNO](LICENSE.md) &copy;
